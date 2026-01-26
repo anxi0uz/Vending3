@@ -10,7 +10,7 @@ namespace backend.DataAccess
         public DbSet<User> Users { get; set; }
         public DbSet<TradeApparatus> TradeApparatuses { get; set; }
         public DbSet<Sales> Sales { get; set; }
-        public DbSet<Services> Services { get; set; }
+        public DbSet<Models.Services> Services { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<NotificationLog> NotificationLogs { get; set; }
 

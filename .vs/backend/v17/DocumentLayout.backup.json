@@ -3,16 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\user452\\Documents\\vending2\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\dtos\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\dtos\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\dtos\\tradeapparatusesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\dtos\\tradeapparatusesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\repositories\\servicesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\repositories\\servicesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\endpoints\\salesendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\endpoints\\salesendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\dtos\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\dtos\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\endpoints\\tradeapparatusendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\endpoints\\tradeapparatusendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\endpoints\\serviceendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\endpoints\\serviceendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\hubs\\notificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\hubs\\notificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\dtos\\tradeapparatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\dtos\\tradeapparatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\abstractions\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +83,8 @@
       "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\hubs\\notificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\hubs\\notificationsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\dtos\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\dtos\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\repositories\\servicesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|solutionrelative:backend\\repositories\\servicesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A53B2A6-A585-4233-938F-661BC83793BE}|backend\\backend.csproj|c:\\users\\user452\\documents\\vending2\\backend\\backend\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,76 +166,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\FileName.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\FileName.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\FileName.cs",
+              "RelativeToolTip": "backend\\DTOs\\FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T06:45:50.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\AuthResponse.cs",
+              "RelativeToolTip": "backend\\DTOs\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T05:53:05.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T05:25:22.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "backend\\Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "backend\\Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T04:59:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Endpoints\\SalesEndpoints.cs",
+              "RelativeDocumentMoniker": "backend\\Endpoints\\SalesEndpoints.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Endpoints\\SalesEndpoints.cs",
+              "RelativeToolTip": "backend\\Endpoints\\SalesEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T04:57:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Endpoints\\ServiceEndpoints.cs",
+              "RelativeDocumentMoniker": "backend\\Endpoints\\ServiceEndpoints.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Endpoints\\ServiceEndpoints.cs",
+              "RelativeToolTip": "backend\\Endpoints\\ServiceEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T04:51:17.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T03:48:37.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Endpoints\\UserEndpoints.cs",
               "RelativeDocumentMoniker": "backend\\Endpoints\\UserEndpoints.cs",
               "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Endpoints\\UserEndpoints.cs",
               "RelativeToolTip": "backend\\Endpoints\\UserEndpoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABmAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T05:56:27.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Abstractions\\ITokenService.cs",
-              "RelativeDocumentMoniker": "backend\\Abstractions\\ITokenService.cs",
-              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Abstractions\\ITokenService.cs",
-              "RelativeToolTip": "backend\\Abstractions\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ServicesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Repositories\\ServicesRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ServicesRepository.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Repositories\\ServicesRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ServicesRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAASwBsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T05:41:22.52Z",
+              "WhenOpened": "2026-01-21T04:46:46.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:49:38.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "backend\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Services\\AuthService.cs",
               "RelativeToolTip": "backend\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T05:38:17.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "backend\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Services\\TokenService.cs",
-              "RelativeToolTip": "backend\\Services\\TokenService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBwAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TradeApparatusesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\TradeApparatusesResponse.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\TradeApparatusesResponse.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\TradeApparatusesResponse.cs",
+              "RelativeToolTip": "backend\\DTOs\\TradeApparatusesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T05:24:55.445Z",
+              "WhenOpened": "2026-01-26T04:49:13.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "backend\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "backend\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\AuthRequest.cs",
+              "RelativeToolTip": "backend\\DTOs\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T05:03:40.435Z",
+              "WhenOpened": "2026-01-26T05:57:42.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\appsettings.Development.json",
+              "RelativeToolTip": "backend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-26T05:57:48.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TradeApparatusRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\TradeApparatusRequest.cs",
+              "RelativeDocumentMoniker": "backend\\DTOs\\TradeApparatusRequest.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\TradeApparatusRequest.cs",
+              "RelativeToolTip": "backend\\DTOs\\TradeApparatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T04:49:15.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TradeApparatusEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Endpoints\\TradeApparatusEndpoints.cs",
+              "RelativeDocumentMoniker": "backend\\Endpoints\\TradeApparatusEndpoints.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Endpoints\\TradeApparatusEndpoints.cs",
+              "RelativeToolTip": "backend\\Endpoints\\TradeApparatusEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T04:46:27.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "NotificationSender.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Hubs\\NotificationSender.cs",
               "RelativeDocumentMoniker": "backend\\Hubs\\NotificationSender.cs",
@@ -204,7 +391,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "backend\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:45:08.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Services\\TokenService.cs",
+              "RelativeToolTip": "backend\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:24:55.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Abstractions\\ITokenService.cs",
+              "RelativeDocumentMoniker": "backend\\Abstractions\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Abstractions\\ITokenService.cs",
+              "RelativeToolTip": "backend\\Abstractions\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:41:22.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:03:40.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "NotificationHub.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Hubs\\NotificationHub.cs",
               "RelativeDocumentMoniker": "backend\\Hubs\\NotificationHub.cs",
@@ -217,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "ServicesRequest.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\ServicesRequest.cs",
               "RelativeDocumentMoniker": "backend\\DTOs\\ServicesRequest.cs",
@@ -230,46 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\appsettings.json",
-              "RelativeDocumentMoniker": "backend\\appsettings.json",
-              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\appsettings.json",
-              "RelativeToolTip": "backend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-21T03:48:37.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DataAccess\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "backend\\DataAccess\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DataAccess\\AppDbContext.cs",
-              "RelativeToolTip": "backend\\DataAccess\\AppDbContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA4wDYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T03:45:08.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Program.cs",
-              "RelativeDocumentMoniker": "backend\\Program.cs",
-              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Program.cs",
-              "RelativeToolTip": "backend\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T03:49:38.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "NotificationDto.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\NotificationDto.cs",
               "RelativeDocumentMoniker": "backend\\DTOs\\NotificationDto.cs",
@@ -282,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "ProductRequest.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\ProductRequest.cs",
               "RelativeDocumentMoniker": "backend\\DTOs\\ProductRequest.cs",
@@ -295,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "ProductResponse.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\ProductResponse.cs",
               "RelativeDocumentMoniker": "backend\\DTOs\\ProductResponse.cs",
@@ -308,20 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ServicesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Repositories\\ServicesRepository.cs",
-              "RelativeDocumentMoniker": "backend\\Repositories\\ServicesRepository.cs",
-              "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Repositories\\ServicesRepository.cs",
-              "RelativeToolTip": "backend\\Repositories\\ServicesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T04:46:46.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "SalesRepository.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Repositories\\SalesRepository.cs",
               "RelativeDocumentMoniker": "backend\\Repositories\\SalesRepository.cs",
@@ -334,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Models\\Product.cs",
               "RelativeDocumentMoniker": "backend\\Models\\Product.cs",
@@ -347,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "ServicesResponse.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\ServicesResponse.cs",
               "RelativeDocumentMoniker": "backend\\DTOs\\ServicesResponse.cs",
@@ -360,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
               "Title": "SalesRequest.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\SalesRequest.cs",
               "RelativeDocumentMoniker": "backend\\DTOs\\SalesRequest.cs",
@@ -373,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "SalesResponse.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\DTOs\\SalesResponse.cs",
               "RelativeDocumentMoniker": "backend\\DTOs\\SalesResponse.cs",
@@ -386,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "TradeApparatusRepository.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Repositories\\TradeApparatusRepository.cs",
               "RelativeDocumentMoniker": "backend\\Repositories\\TradeApparatusRepository.cs",
@@ -399,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "NotificationLog.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Models\\NotificationLog.cs",
               "RelativeDocumentMoniker": "backend\\Models\\NotificationLog.cs",
@@ -412,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Abstractions\\IUserRepository.cs",
               "RelativeDocumentMoniker": "backend\\Abstractions\\IUserRepository.cs",
@@ -425,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "backend\\Repositories\\UserRepository.cs",
@@ -438,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 37,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Models\\User.cs",
               "RelativeDocumentMoniker": "backend\\Models\\User.cs",
@@ -451,20 +638,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "TradeApparatus.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Models\\TradeApparatus.cs",
               "RelativeDocumentMoniker": "backend\\Models\\TradeApparatus.cs",
               "ToolTip": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Models\\TradeApparatus.cs",
               "RelativeToolTip": "backend\\Models\\TradeApparatus.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T03:42:18.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "Services.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Models\\Services.cs",
               "RelativeDocumentMoniker": "backend\\Models\\Services.cs",
@@ -477,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "Sales.cs",
               "DocumentMoniker": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\Models\\Sales.cs",
               "RelativeDocumentMoniker": "backend\\Models\\Sales.cs",

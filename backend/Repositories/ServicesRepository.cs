@@ -25,7 +25,7 @@ namespace backend.Repositories
 
         public async Task<int> CreateServicesAsync(ServiceRequest request)
         {
-            var model = new Services()
+            var model = new Models.Services()
             {
                 ApparatusId = request.apparatusid,
                 Date = request.Date,

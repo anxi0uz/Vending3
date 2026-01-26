@@ -13,14 +13,27 @@ namespace backend.Endpoints
             {
                 return await service.LoginAsync(request);
             });
+
             group.MapPost("/register", async (IAuthService service, [FromBody] UserRequest request) =>
             {
                 return await service.Register(request);
             });
-            group.MapGet("/", async () =>
-            {
 
-            });
+            group.MapGet("/", async (IUserRepository repository) =>
+            {
+                return await repository.GetAllUsersAsync();
+            }).RequireAuthorization();
+
+            group.MapPut("/{id}", async (IUserRepository repository, int id, [FromBody] UserRequest request) =>
+            {
+                return await repository.UpdateUser(id, request);
+            }).RequireAuthorization();
+
+            group.MapDelete("/{id}", async (IUserRepository repository, int id) =>
+            {
+                return await repository.DeleteUser(id);
+            }).RequireAuthorization();
+
             return group;
         }
     }
