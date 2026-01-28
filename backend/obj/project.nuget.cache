@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OzoRuuTfnqs=",
+  "dgSpecHash": "aadkRzfGuSI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user452\\Documents\\vending2\\backend\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Users\\user452\\Documents\\konkurs\\Vending3\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user452\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\user452\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.3.0\\microsoft.aspnetcore.authentication.2.3.0.nupkg.sha512",
